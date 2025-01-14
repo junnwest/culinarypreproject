@@ -2,4 +2,4 @@
 "knorr homestyl stock   beef" > "knorr homestyl stock beef"
 "knorr rice side   cheddar broccoli" > "knorr rice side cheddar broccoli"
 "knorr rice side   cheddar broccoli" > "knorr rice side cheddar broccoli"
-"knorr pasta side   cheesi cheddar" > "knorr pasta side cheesi cheddar"
+"knorr pasta side   cheesi cheddar" > "knorr pasta side cheesi cheddar
